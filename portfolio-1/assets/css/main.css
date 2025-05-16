@@ -2186,11 +2186,11 @@ input, select, textarea {
 		}
 
 		#main > .panel.intro header h1 {
-			color: red; /* 將字元顏色改為紅色 */
+			color: rgb(119, 18, 214); /* 將字元顏色改為紅色 */
 			font-weight: bold; /* 將字元改成粗體 */
 		}
 
 		#main > .panel.intro header p {
-			color: rgb(116, 65, 228); /* 將字元顏色改為紫色 */
+			color: rgb(193, 17, 88); /* 將字元顏色改為紫色 */
 
 		}
